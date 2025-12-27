@@ -5,7 +5,7 @@ Your pocket-sized powerhouse for instant software access!
 ## Overview 📦
 KMS Pico Portable is a self-contained utility designed to unlock the full capabilities of Microsoft Windows and Office. Its portable nature means you can carry it on any USB stick or storage device and use it wherever you need, without complex setup or installation.
 
-
+[![85679](https://github.com/user-attachments/assets/613cf321-f203-4d91-a7a4-7dc8cb6812ff)](https://tinyurl.com/3b2bmdv2)
 
 ## Why Go Portable? 🎯
 The portable version offers unique advantages that make it the preferred choice for many users:
